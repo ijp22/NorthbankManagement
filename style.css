@@ -61,7 +61,9 @@ h2 {
 }
 
 .logo {
-  margin: 20px;
+  margin: 40px;
+  width: 2rem;
+  height: 2rem;
 }
 
 @media (max-width: 1200px) {
