@@ -1,6 +1,6 @@
 # NorthbankManagement
 
-Simple Website for Northbank Management.
+Simple landing page for Northbank Management.
 <br>
 A music management company.
 
